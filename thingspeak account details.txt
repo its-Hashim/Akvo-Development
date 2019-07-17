@@ -1,0 +1,18 @@
+thingspeak account details
+
+id:	s.quadri@akvosphere.com
+pass:	Sayed@123
+		
+		Channels Details
+	36k 90002
+		
+	
+
+id:	shaikh.g@akvosphere.com
+pass:	Shaikh@123
+
+		Channels Details
+	AIS9
+	Chennai 55K 90001
+	Chennai 55K 90002
+	Chennai 55K 90003
