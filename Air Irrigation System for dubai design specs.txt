@@ -1,0 +1,11 @@
+AIS 50pcs design specs
+WIFI
+themocople
+ds18b20 X3 pcs
+Humidity Sensor
+time module
+relay 2Pcs
+sonar sensor
+
+order sht15
+pcb design

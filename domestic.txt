@@ -1,0 +1,11 @@
+domestic 36K
+
+
+Humidity 
+3 X ds18b20
+themocouple
+GSM module
+switch
+dc power jack
+3 relay
+sonar sensor
